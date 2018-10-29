@@ -1,0 +1,90 @@
+.body-img {
+background: url(/accessories/images/Payroll-Management-Software.jpg);
+    background-position: right center;
+    background-repeat: no-repeat;
+}
+
+.login-page-bg-color {
+    background-color:#6a737b;
+}
+.login-card-area {
+
+    width:60%;
+    margin:0 auto;
+
+}
+.card.white.card-wrap {
+    padding: 5%;
+    height:auto;
+    background-color: rgba(255, 255, 255,.94) !important;
+    transform:translateY(50%);
+
+}
+
+.padding-0 {
+    padding:0;
+}
+.gti-btn {
+    height: 100%;
+    width: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
+    color: #fff;
+    font-weight: 500;
+}
+
+.content-area {
+    margin: 2%;
+    padding: 20px;
+    width: auto;
+    height: auto;
+    border: 1px solid #c6c6c6;
+}
+
+.theme-bg-color {
+    background-color:#25567f !important;
+}
+.panel-text {
+    margin-top:-33px;
+    background-color: #c6c6c6;
+    width: fit-content;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+tr {
+    border-bottom:0px;
+}
+td {
+    padding:5px 5px;
+}
+.fix-input {
+    width:150px !important;
+}
+div.select-wrapper {
+    width:150px !important;
+}
+select.fix-input {
+    
+    border: 1px solid #c6c6c6 !important;
+      height:1.5rem !important;
+    font-size:15px !important;
+}
+input[type=text].fix-input {
+    border: 1px solid #c6c6c6 !important;
+    height:1.5rem !important;
+    font-size:15px !important;
+    
+}
+
+.form-area {
+    margin-top:2%;
+}
+
+.col.s10.left-vr {
+    border-right: 1px solid #222;
+}
+
+::placeholder {
+    color:#747070;
+}

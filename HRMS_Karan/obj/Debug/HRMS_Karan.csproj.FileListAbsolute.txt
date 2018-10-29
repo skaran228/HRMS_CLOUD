@@ -1,0 +1,5 @@
+D:\PK\HRMS_Karan\HRMS_Karan\bin\HRMS_Karan.dll
+D:\PK\HRMS_Karan\HRMS_Karan\bin\HRMS_Karan.pdb
+D:\PK\HRMS_Karan\HRMS_Karan\obj\Debug\HRMS_Karan.csprojResolveAssemblyReference.cache
+D:\PK\HRMS_Karan\HRMS_Karan\obj\Debug\HRMS_Karan.dll
+D:\PK\HRMS_Karan\HRMS_Karan\obj\Debug\HRMS_Karan.pdb
